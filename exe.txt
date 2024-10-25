@@ -1,4 +1,4 @@
 hi 
 hello 
 this is my  new devops
-practicing devops
+practicing DeVops
